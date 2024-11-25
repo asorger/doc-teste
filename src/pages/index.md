@@ -1,5 +1,5 @@
 # Docussaurus
 
 -  [Documentos](/docs/intro/)
--  [Blog](/blob/)
+-  [Blog](/blog/)
 -  [ADC](/new/adc/)
