@@ -1,3 +1,8 @@
+---
+title: Ambientes de Desenvolvimento Colaborativo
+---
+
+
 # Ambientes de Desenvolvimento Colaborativo
 
 ## CTeSP em Tecnologias Informáticas
@@ -7,8 +12,8 @@
 A turma é fixe!
 
 
-| id  | nome      |
-| --- | --------- |
-| 01  | axel      |
-| 02  | afonso    |
-| 03  | francisco |
+|   id | nome      |
+| ---: | :-------- |
+|   01 | axel      |
+|   02 | afonso    |
+|   03 | francisco |
